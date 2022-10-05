@@ -29,5 +29,5 @@ return multi;
 console.log(multi)
 //#endregion function
 
-// iterable=array
+
 
